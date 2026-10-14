@@ -1,1 +1,1 @@
-# dont merge any branches without asking
+# dont merge any branches without asking hi lol
